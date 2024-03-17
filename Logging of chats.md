@@ -1,6 +1,6 @@
 Cách xuất lịch sử nhật ký trò chuyện Discord trên trình duyệt và máy tính để bàn
 
-Để xuất lịch sử nhật ký trò chuyện Discord, bạn cần sử dụng các công cụ của bên thứ ba vì Discord vốn không cung cấp tính năng này. Ta sẽ sử dụng hai công cụ khác nhau đó là - Discord Made và Tampermonkey.
+Để xuất lịch sử nhật ký trò chuyện Discord, bạn cần sử dụng các công cụ của bên thứ ba vì Discord vốn không cung cấp tính năng này. Ta sẽ sử dụng hai công cụ khác nhau đó là - Discord Made, Tampermonkey với trình duyệt Web và Discord Chat Explorer với Client
 
 #### Cách 1: Sử dụng Discord Made ([web](https://www.youtube.com/watch?v=4cijBczRu1o))
 
@@ -11,7 +11,16 @@ Cách xuất lịch sử nhật ký trò chuyện Discord trên trình duyệt v
 - Chọn định dạng xuất (HTML hoặc CSV).
 - Nhấp vào nút "Export".
 
-#### Cách 2: Sử dụng Discord Chat Explorer ([Client](https://www.youtube.com/watch?v=ovLFCM10m_Q))
+#### Cách 2: Sử dụng Tampermonkey
+
+- Cài đặt tiện ích mở rộng Tampermonkey từ Cửa hàng Chrome trực tuyến [Tampermonkey](chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Truy cập [Discord History Tracker](https://dht.chylex.com/browser-only/build/track.user.js) và cài đặt tập lệnh.
+- Kích hoạt tiện ích mở rộng Tampermonkey và nhấp vào biểu tượng DHT ở góc trên cùng bên phải của trình duyệt Chrome.
+- Nhấp vào "Start tracking" để bắt đầu ghi lại lịch sử trò chuyện.
+- Khi bạn hài lòng với lịch sử trò chuyện được ghi lại, hãy nhấp vào nút "Download" để tải xuống nhật ký trò chuyện.
+- Sau khi Download thành công truy cập vào [Check Chat History](https://dht.chylex.com/browser-only/build/viewer.html) import file vừa Download để xem lịch sử
+
+#### Cách 3: Sử dụng Discord Chat Explorer ([Client](https://www.youtube.com/watch?v=ovLFCM10m_Q))
 
 - Để tải xuống chương trình, hãy tìm kiếm "discord chat explorer" trên Google và tải xuống bản phát hành ổn định từ [GitHub](https://github.com/Tyrrrz/DiscordChatExporter).
 - Sau khi tải về, giải nén file vào một thư mục trên máy tính, chẳng hạn như thư mục Downloads.
