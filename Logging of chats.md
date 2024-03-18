@@ -1,10 +1,10 @@
 Cách xuất lịch sử nhật ký trò chuyện Discord trên trình duyệt và máy tính để bàn
 
-Để xuất lịch sử nhật ký trò chuyện Discord, bạn cần sử dụng các công cụ của bên thứ ba vì Discord vốn không cung cấp tính năng này. Ta sẽ sử dụng hai công cụ khác nhau đó là - Discord Made, Tampermonkey với trình duyệt Web và Discord Chat Export với Client
+Để xuất lịch sử nhật ký trò chuyện Discord, bạn cần sử dụng các công cụ của bên thứ ba vì Discord vốn không cung cấp tính năng này. Ta sẽ sử dụng hai công cụ khác nhau đó là - Discord Mate, Tampermonkey với trình duyệt Web và Discord Chat Export với Client
 
-#### Cách 1: Sử dụng Discord Made ([web](https://www.youtube.com/watch?v=4cijBczRu1o))
+#### Cách 1: Sử dụng Discord Mate ([web](https://www.youtube.com/watch?v=4cijBczRu1o))
 
-- Truy cập Cửa hàng Chrome trực tuyến (chrome.google.com/webstore) và tìm kiếm [Discord Made](https://chromewebstore.google.com/detail/discordmate-discord-chat/ofjlibelpafmdhigfgggickpejfomamk).
+- Truy cập Cửa hàng Chrome trực tuyến (chrome.google.com/webstore) và tìm kiếm [Discord Mate](https://chromewebstore.google.com/detail/discordmate-discord-chat/ofjlibelpafmdhigfgggickpejfomamk).
 - Cài đặt tiện ích mở rộng
 - Nhấp vào biểu tượng tiện ích mở rộng ở góc trên cùng bên phải của trình duyệt Chrome và chọn "Discord Made" để bắt đầu xuất cuộc trò chuyện.
 - Chọn thời gian bắt đầu và thời gian kết thúc cho lịch sử trò chuyện bạn muốn xuất.
